@@ -1,0 +1,98 @@
+body{
+  text-align: center;
+  margin: 0;
+  background-color: whitesmoke;
+  color: black;
+}
+.header2{
+  height: 50px;
+  width: 700px;
+  margin: auto;
+  background-color: azure;
+  margin-top: 0;
+  align-items: center;
+}
+form{
+  width: 500px;
+  margin: auto;
+  text-align: left;
+}
+input{
+    width: 500px;
+    border: 1px solid rgb(187, 180, 180);
+    font-size: 20px;
+    font-style: italic;
+    padding: 10px;
+    margin: 5px;
+}
+label{
+  font-size: 20px;
+  margin-left: 5px;
+}
+button{
+  width: 100px;
+  padding: 8px;
+  background: rgb(56, 56, 255);
+  color: white;
+  font-size: 18px;
+  border: 0;
+  float: left;
+  margin: 10px;
+  margin-left: 5px;
+}
+p{
+  font-size: 25px;
+  color: red;
+  float: right;
+  cursor: pointer;
+}
+.button{
+  width: 500px;
+  margin: auto;
+  height: 35px;
+}
+p:hover{
+  background-color: red;
+  color: blue;
+}
+.added{
+  width: 500px;
+  height: auto;
+  background: blue;
+  border: 0%;
+  margin: auto;
+  display: inline-flex;
+}
+.contactList2{
+  margin: auto;
+  text-align: left;
+  width: 500px;
+  border-top: 1px solid rgb(187, 180, 180);
+  display: block;
+  height: 80px;
+  padding-top: 10px;
+}
+.contactList3{
+  display: inline-block;
+}
+h3{
+  margin: 0;
+  margin-left: 40px;
+  font-size: 22px;
+} 
+h4{
+  margin: 0;
+  font-size: 20px;
+  margin-left: 40px;
+  color: rgb(36, 35, 35);
+}
+span{
+  font-size: 20px;
+  font-weight: 1000;
+  margin-left: 10px;
+  color: rgb(82, 80, 80);
+}
+img{
+  float: left;
+  margin-top: 20px;
+}
